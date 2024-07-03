@@ -1,5 +1,5 @@
 {
-    "taskDefinitionArn": "arn:aws:ecs:ap-south-1:432606891118:.github/workflows/task-definition.json/demo-deploy:1",
+    "taskDefinitionArn": "arn:aws:ecs:ap-south-1:432606891118:task-definition/demo-deploy:1",
     "containerDefinitions": [
         {
             "name": "demo-deploy",
